@@ -49,3 +49,14 @@ had the highest prediction accuracy on the dataset.
 > This feature is recommended as a baseline model for deployment.
 
 ---
+## Key Visualizations
+
+### Distribution of Credit Scores
+
+![Credit Score Distribution](images/credit_score_dist.png)
+
+---
+
+### Distribution of Annual Mileage
+
+![Annual Mileage Distribution](images/annual_mileage_dist.png)
